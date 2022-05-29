@@ -1,0 +1,41 @@
+#menu-outer {
+	height: 84px;
+	background: url(images/bar-bg.jpg) repeat-x;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+	position: fixed;
+}
+
+ul#horizontal-list {
+	min-width: 2000px;
+	list-style: none;
+	padding-top: 10px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+		margin: 25px;
+		font-size: 40px;
+	}
+	#form>button{
+margin-left: 29%;	padding-left: 5%;padding-right: 5%;
+} #input{
+	margin-left: 25%;
+padding-left: 60px;text-align: center;padding-right: 60px;
+}
+#input1{
+	margin-left: 29%;
+padding-left: 60px;text-align: center;padding-right: 60px;
+}
+
+
+#h1{
+	margin-left: 15%;
+}
+#background{
+	background-repeat:no-repeat;
+	    background-size: 2000px 660px;
+	background-image: url("images/background.jpg");
+}
